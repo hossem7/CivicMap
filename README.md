@@ -15,8 +15,8 @@
 
 ### Optional Enhancements
 - ✉️ Push notifications when a new policy affects your region
-- 💬 GPT-powered summarization of legal documents
-- 🗳 Voting reminders and polling station lookup
+- 💬 GPT-powered summarization of legal documents (add a chatBot to further summarize in layment's terms)
+- 🗳  Voting reminders and polling station lookup
 - 📊 Analytics for comparing cities by policy category
 - 🧮 Visuals for completion rates, user interaction trends, etc.
 
