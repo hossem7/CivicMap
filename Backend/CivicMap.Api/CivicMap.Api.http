@@ -1,0 +1,6 @@
+@CivicMap.Api_HostAddress = http://localhost:5249
+
+GET {{CivicMap.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
